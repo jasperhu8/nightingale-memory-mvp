@@ -1,0 +1,38 @@
+[
+  {
+    "sentence_id": "s1_01",
+    "text": "I’ve had chest pain for two days.",
+    "expected_intent": "symptom",
+    "expected_topic": "symptom"
+  },
+  {
+    "sentence_id": "s1_02",
+    "text": "I want to book a follow-up appointment.",
+    "expected_intent": "appointment",
+    "expected_topic": "followup"
+  },
+  {
+    "sentence_id": "s1_03",
+    "text": "My bill seems incorrect, can you check it?",
+    "expected_intent": "billing",
+    "expected_topic": "payment"
+  },
+  {
+    "sentence_id": "s1_04",
+    "text": "The headache got worse after the new medication.",
+    "expected_intent": "symptom",
+    "expected_topic": "symptom"
+  },
+  {
+    "sentence_id": "s1_05",
+    "text": "What are your opening hours?",
+    "expected_intent": "other",
+    "expected_topic": "general"
+  },
+  {
+    "sentence_id": "s1_06",
+    "text": "Can I schedule a new patient visit?",
+    "expected_intent": "appointment",
+    "expected_topic": "scheduling"
+  }
+]
